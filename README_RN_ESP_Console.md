@@ -17,4 +17,4 @@
 
 # Contenido
 
-- [2024, Diciembre 4](20241204_ESP.md)
+- [2024, Diciembre 4 - v2.6.6100](20241204_ESP.md)
