@@ -1,0 +1,28 @@
+<p align="center">
+  <img src="https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png" />
+</p>
+
+## ATIONET Console (Web portal) - Deploy Diciembre 4, 2024
+
+- [Contador de registros de reglas](#Contador de registros de reglas)
+- [Agregar nombre de combustibles al Excel de actualización de reglas de combustible](#Agregar nombre de combustibles al Excel de actualización de reglas de combustible)
+- [Incidencias corregidas.](#Incidencias corregidas)
+
+
+
+#Contador de registros de reglas
+
+
+
+#Agregar nombre de combustibles al Excel de actualización de reglas de combustible
+
+
+
+#Incidencias corregidas
+Las siguientes incidencias fueron corregidas:
+  - Error al intentar editar o crear contingencias
+  - Se mostraba información en inglés en el reporte de Solicitudes de Reporte -> Detailed Rules a pesar de que el reporte estaba en español
+  - Se mostraban modificadores vencidos en reporte de "Precios y modificadores de Contratos“.
+  - No se mostraba la información de “vigencia” en la bitácora de auditoria al actualizar una regla.
+  - No se estaba realizando la liberación, activación o inactivación de los identificadores correctamente.
+  - Excel del reporte 'Reglas de Cuota’ se mostraba sin información
