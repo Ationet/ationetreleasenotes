@@ -18,3 +18,4 @@
 # Contents
 
 - [2024, December 4 - v2.6.6100](20241204_ENG.md)
+- [2024, November 20 - v2.6.6050](20241120_ENG.md)
