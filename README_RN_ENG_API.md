@@ -29,7 +29,7 @@
 # API Rest
 
 ### 2024/12/18
-- Change in Rest Users API to not notify users
-  - A new boolean parameter is added to the API https://api.ationet.com/Users that allows indicating whether or not the welcome email to ATIONET will be sent to the user who was created or to whom the new role was added.
-This parameter by default will allow the welcome email to be sent to the user.
+- Change in Rest Users API to void users notification
+  - A new boolean parameter is added to the API https://api.ationet.com/Users that allows to indicate whether or not the welcome email to ATIONET will be sent to the user who was created (or to whom the new role was added).
+By default, this parameter will allow the welcome email to be sent to the user.
     
