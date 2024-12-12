@@ -29,6 +29,6 @@
 
 ### 2024/12/18
 - Cambio en API Rest Users para no notificar usuarios
-  - Se agrega un nuevo parámetro booleano a la API https://api.ationet.com/Users que permite indicar si se le enviara o no el correo de bienvenida a ATIONET al usuario creado o al cual se le agrego el nuevo rol.
-    Dicho parámetro por defecto permitira él envió el correo de bienvenida al usuario.
+  - Se agrega un nuevo parámetro booleano a la API https://api.ationet.com/Users que permite indicar si se le enviará o no el correo de bienvenida a ATIONET al usuario creado (o al cual se le agrega el nuevo rol).
+    Dicho parámetro, por defecto permitirá el envío del correo de bienvenida al usuario.
     
