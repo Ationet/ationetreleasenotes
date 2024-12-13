@@ -9,7 +9,7 @@
 - [ATIONET Console v2.6.6150](20241218_ENG.md)
 - [Companies Portal v1.99.3.0](/Company%20Portal/1.99.3.0%20ENG.md)
   
-## All Previous Deployments
+## Previous Release Notes
 - [ENGLISH - Release Notes](Release_Notes.md)
 
 # ESPAÑOL
@@ -19,5 +19,5 @@
 - [ATIONET Console v2.6.6150](20241218_ESP.md)
 - [Portal de Compañias v1.99.3.0](/Company%20Portal/1.99.3.0%20ESP.md)
 
-## TODAS las Implementaciones Previas
+## Release Notes Anteriores
 - [ESPAÑOL - Release Notes](Release_Notes.md)
