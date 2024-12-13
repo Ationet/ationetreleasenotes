@@ -18,4 +18,4 @@
 - [Portal de Compañias v1.99.3.0](1.99.3.0ESP.md)
 
 ## TODAS las Implementaciones Previas
-- [ESPAñOL - Release Notes](Release_Notes.md)
+- [ESPAÑOL - Release Notes](Release_Notes.md)
