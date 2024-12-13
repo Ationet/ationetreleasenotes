@@ -9,7 +9,7 @@
 - [Portal de Compañias v1.99.3.0](1.99.3.0ENG.md)
   
 ## All Previous Deployments
-- [Release Notes](Release_Notes.md)
+- [ENGLISH - Release Notes](Release_Notes.md)
 
 # ESPAÑOL
 
@@ -18,4 +18,4 @@
 - [Portal de Compañias v1.99.3.0](1.99.3.0ESP.md)
 
 ## TODAS las Implementaciones Previas
-- [Release Notes](Release_Notes.md)
+- [ESPAñOL - Release Notes](Release_Notes.md)
