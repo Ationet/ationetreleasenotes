@@ -6,7 +6,7 @@
 
 ## LATEST Deployments 
 - [ATIONET Console v2.6.6150](20241218_ENG.md)
-- [Portal de Compañias v1.99.3.0](/Company%20Portal/1.99.3.0%20ENG.md)
+- [Companies Portal v1.99.3.0](/Company%20Portal/1.99.3.0%20ENG.md)
   
 ## All Previous Deployments
 - [ENGLISH - Release Notes](Release_Notes.md)
