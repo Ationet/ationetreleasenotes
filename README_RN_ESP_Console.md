@@ -17,5 +17,6 @@
 
 # Contenido
 
+- [2024, Diciembre 18 - v2.6.6150](20241218_ESP.md)
 - [2024, Diciembre 4 - v2.6.6100](20241204_ESP.md)
 - [2024, Noviembre 20 - v2.6.6050](20241120_ESP.md)
