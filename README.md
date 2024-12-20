@@ -8,6 +8,7 @@
 
 - [ATIONET Console v2.6.6150](20241218_ENG.md)
 - [Companies Portal v1.99.3.0](/Company%20Portal/1.99.3.0%20ENG.md)
+- [Local Agent v2.5.0254](/LocalAgent/v2.5.0254_EN.md)
   
 ## Previous Release Notes
 - [ENGLISH - Release Notes](Release_Notes.md)
@@ -18,6 +19,8 @@
 
 - [ATIONET Console v2.6.6150](20241218_ESP.md)
 - [Portal de Compañias v1.99.3.0](/Company%20Portal/1.99.3.0%20ESP.md)
+- [Local Agent v2.5.0254](/LocalAgent/v2.5.0254_ES.md)
+
 
 ## Release Notes Anteriores
 - [ESPAÑOL - Release Notes](Release_Notes.md)
