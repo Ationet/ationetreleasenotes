@@ -1,0 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png" />
+</p>
+
+# ATIONET Console (Web portal) - v2.6.6250
+
+## Deploy in PROD (Jan 15, 2025)
+
+### Fixed Incidents
+The following issues have been fixed:
+- Rule validity is now available again.
+- Better error messages have been added when creating rules with validity to avoid confusion.
+- Correction to scenarios that caused transactions to be duplicated.
+- Delays when entering the inventory module.
