@@ -6,12 +6,12 @@
 
 ## LATEST Deployments <img width="31" alt="image" src="https://github.com/user-attachments/assets/56003bab-4447-4354-9eb5-868fc33180f7" />
 
-- [ATIONET Console v2.6.6250](v2.6.6250_EN.md)
+- [ATIONET Console v2.6.6250](/ATIONET-Console/v2.6.6250_EN.md)
 - [Companies Portal v1.104.5.0](/Company%20Portal/1.104.5.0%20ENG.md)
 
   
 ## Previous Release Notes
-- [ENGLISH - Release Notes](Release_Notes.md)
+- [ENGLISH - Release Notes](/ATIONET-Console/Release_Notes.md)
 
 # ESPAÑOL
 
