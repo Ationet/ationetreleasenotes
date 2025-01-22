@@ -1,0 +1,14 @@
+<p align="center">
+  <img src="https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png" />
+</p>
+
+# Local Agent V2.5.0256
+
+## Fecha de liberación: Ene 21, 2025
+[Descargar la ultima version](https://github.com/Ationet/ationetdownloads/blob/master/README.md)
+
+
+### Incidencias corregidas
+- Local Agent Online y Offline autoriza con una fecha invalida (de hace mucho tiempo).
+- Local Agent Offline no respeta regla de cuota semanal asociada a una flota.
+- Escenarios donde Local Agent Offline respondia "Error de aplicacion" al transaccionar offline.
