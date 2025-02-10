@@ -18,8 +18,8 @@
 
 ## ULTIMAS Implementaciones <img width="31" alt="image" src="https://github.com/user-attachments/assets/ac66f280-d06b-4685-9456-1219076a5731" />
 
-- [ATIONET Console v2.6.6250](/ATIONET-Console/v2.6.6250_ES.md)
-- [Portal de Compañias v1.104.5.0](/Company%20Portal/1.104.5.0%20ESP.md)
+- [ATIONET Console v2.6.6250](/ATIONET-Console/v2.6.6350_ES.md)
+//- [Portal de Compañias v1.104.5.0](/Company%20Portal/1.104.5.0%20ESP.md)
 - [Local Agent v2.5.0256](/LocalAgent/v2.5.0256_ES.md)
 
 
