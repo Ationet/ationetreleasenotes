@@ -17,5 +17,5 @@
 
 # Contenido
 
-- [2025, Febrero 26 - v1.110.5.0](main/Company%20Portal/1.110.5.0_ESP.md)
+- [2025, Febrero 26 - v1.110.5.0](Company%20Portal/1.110.5.0_ESP.md)
 - [2024, Diciembre 18 - v1.99.3.0](1.99.3.0_ESP.md)
