@@ -6,4 +6,4 @@
 
 ## Defaulted Subscriptions
 
-- [Defaulted Subscritions](/POLICIES_Defaultes.md)
+- [Defaulted Subscriptions](/POLICIES_Defaulted.md)
