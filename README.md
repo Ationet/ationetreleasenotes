@@ -7,6 +7,7 @@
 ## LATEST Deployments <img width="31" alt="image" src="https://github.com/user-attachments/assets/56003bab-4447-4354-9eb5-868fc33180f7" />
 
 - [ATIONET Console v2.6.6550](/ATIONET-Console/v2.6.6550_EN.md)
+- [ATIONET Driver Mobile App v1.8.3](/MobileApps/DriverApp/1.8.3_ES.md)
 
 
 ## Previous Release Notes
