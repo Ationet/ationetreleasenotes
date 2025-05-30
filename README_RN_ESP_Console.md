@@ -17,7 +17,7 @@
 
 # Contenido
 
-- [2025, Mayo 30 - v2.6.6750](/ATIONET-Console/v2.6.6750_ES.md)
+- [2025, Junio 4 - v2.6.6750](/ATIONET-Console/v2.6.6750_ES.md)
 - [2025, Mayo 21 - v2.6.6700](/ATIONET-Console/v2.6.6700_ES.md)
 - [2025, Mayo 7 - v2.6.6650](/ATIONET-Console/v2.6.6650_ES.md)
 - [2025, Abril 23 - v2.6.6600](/ATIONET-Console/Create%20v2.6.6600_ES.md)
