@@ -7,7 +7,7 @@
 ## LATEST Deployments <img width="31" alt="image" src="https://github.com/user-attachments/assets/56003bab-4447-4354-9eb5-868fc33180f7" />
 
 - [ATIONET Console v2.6.7350](/ATIONET-Console/v2.6.7350_EN.md)
-- [ATIONET Local Agent v2.6.0001](/LocalAgent/v2.6.0001_ENG.md)
+- [ATIONET Local Agent v2.6.0001](/LocalAgent/v2.6.0001_EN.md)
 
 
 
