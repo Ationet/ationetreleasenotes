@@ -17,6 +17,7 @@
 
 # Contenido
 
+- [2025, Diciembre 17 - v2.6.7450](/ATIONET-Console/v2.6.7450_ES.md)
 - [2025, Diciembre 3 - v2.6.7400](/ATIONET-Console/v2.6.7400_ES.md)
 - [2025, Noviembre 19 - v2.6.7350](/ATIONET-Console/v2.6.7350_ES.md)
 - [2025, Noviembre 5 - v2.6.7300](/ATIONET-Console/v2.6.7300_ES.md)
