@@ -17,5 +17,8 @@
 
 # Contenido
 
-- [2025, Diciembre 17 - v1.132.2.0](LocalAgent/v2.6.0001_ES.md)
+- [2025, Octubre 10 - v2.6.0001](LocalAgent/v2.6.0001_ES.md)
+- [2025, Febrero 11 - v2.5.257](LocalAgent/v2.5.0257_ES.md)
+- [2025, Enero 21 - v2.5.256](LocalAgent/v2.5.0256_ES.md)
+- [2024, Diciembre 19 - v2.5.254](LocalAgent/v2.5.0254_ES.md)
 
