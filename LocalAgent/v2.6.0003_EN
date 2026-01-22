@@ -1,0 +1,16 @@
+<p align="center">
+  <img src="https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png" />
+</p>
+
+# Local Agent v2.6.0003
+
+## Release Date: Jan 22, 2026
+
+### [Guide to Install or Update to Version 2.6.0000 or Higher](https://github.com/Ationet/ationetdocs/blob/master/Local%20Agent%20Installation%20Guide-EN.md#installation-version-260000)
+
+## Fixed Issues
+- Error that prevented the Local Agent Updater service from functioning correctly.
+- Error on ATIONET's console where the "Does not support Offline" checkbox for Consumer Card and Gift Card programs was not being considered by Local Agent.
+
+
+### [Download Link](https://github.com/Ationet/ationetdownloads/blob/master/README.md)
