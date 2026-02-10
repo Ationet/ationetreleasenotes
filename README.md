@@ -8,7 +8,7 @@
 
 - [ATIONET Console v2.6.7650](/ATIONET-Console/v2.6.7650_EN.md)
 <!-- - [ATIONET Company Portal v1.132.2.0](/Company%20Portal/1.132.2.0%20ENG.md) -->
-- [ATIONET Local Agent v2.6.0005](https://github.com/Ationet/ationetreleasenotes/blob/main/LocalAgent/v2.6.0005_EN.md) 
+- [ATIONET Local Agent v2.6.0050](https://github.com/Ationet/ationetreleasenotes/blob/main/LocalAgent/v2.6.0050_EN.md) 
 
 
 
@@ -21,7 +21,7 @@
 
 - [ATIONET Console v2.6.7650](/ATIONET-Console/v2.6.7650_ES.md)
 <!-- - [ATIONET Portal Compañías v1.132.2.0](/Company%20Portal/1.132.2.0%20ESP.md) -->
-- [ATIONET Local Agent v2.6.0005](https://github.com/Ationet/ationetreleasenotes/blob/main/LocalAgent/v2.6.0005_ES.md) 
+- [ATIONET Local Agent v2.6.0050](https://github.com/Ationet/ationetreleasenotes/blob/main/LocalAgent/v2.6.0050_ES.md) 
 
 
  
