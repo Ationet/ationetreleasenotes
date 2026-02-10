@@ -17,6 +17,7 @@
 
 # Contenido
 
+- [2026, Febrero 11 - v2.6.0050](LocalAgent/v2.6.0050_ES.md)
 - [2026, Enero 22 - v2.6.0003](LocalAgent/v2.6.0003_ES.md)
 - [2025, Diciembre 30 - v2.6.0002](LocalAgent/v2.6.0002_ES.md)
 - [2025, Octubre 10 - v2.6.0001](LocalAgent/v2.6.0001_ES.md)
