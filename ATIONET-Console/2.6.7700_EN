@@ -1,0 +1,26 @@
+<p align="center">
+  <img src="https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png" />
+</p>
+
+# ATIONET Console (Web Portal) - v2.6.7700
+
+## Deployed to PROD (Feb 25, 2026)
+
+### Company Contract Movements Report
+A new Company Contract Movements report is now available that allows to view contract balance deposits and withdrawals.
+
+Unlike the “Company Current Account” view, which allows users to query one contract at a time, this report lets you see movements of all the available contracts in a single query.
+
+This report can be exported in Excel or PDF format, depending on user preference.
+
+<img width="630" height="214.5" alt="image" src="https://github.com/user-attachments/assets/95c49bd8-0a39-43c0-94d1-78a95af7eda3" />
+
+### Business Rules Unlinking When Marking Vehicles as Obsolete
+When a Company Admin marks a vehicle as obsolete, all rules associated with that vehicle will be automatically unlinked.  
+This prevents confusion by ensuring that rules are not shown as applied to vehicles that are no longer operational.
+
+<img width="599" height="264" alt="image" src="https://github.com/user-attachments/assets/5378207d-68b9-4a85-b51b-91e1e7c9a7fb" />
+
+### Fixed Issues
+The following issues have been fixed:
+- Fast track editing did not display the fuel brand name
