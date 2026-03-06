@@ -18,7 +18,7 @@
 - [Release Notes - ESPAÑOL](README_RN_ESP_StandAlone.md)
 - [Release Notes - ENGLISH](README_RN_ENG_StandAlone.md)
 
-## ATIONET R-EVOPOS Terminal (coming soon!)
+## ATIONET R-EVOPOS Terminal
 - [Release Notes - ESPAÑOL](README_RN_ESP_R-EVOPOS.md)
 - [Release Notes - ENGLISH](README_RN_ENG_R-EVOPOS.md)
 
