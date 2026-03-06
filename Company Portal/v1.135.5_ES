@@ -1,0 +1,40 @@
+<p align="center">
+  <img src="https://github.com/Ationet/ationetdocs/raw/master/Content/Images/ATIOnetLogo_250x70.png" />
+</p>
+
+# ATIONET Portal de Compañía - v1.135.5
+
+## Deploy en PROD (Feb 25, 2025)
+
+
+### Vales
+A partir de esta nueva version, se incorpora funcionalidades de vales al portal.
+
+<img width="252" height="58" alt="image" src="https://github.com/user-attachments/assets/f017141e-ec6d-4db2-8063-ed4516b6cf79" />
+
+<img width="770" height="341" alt="image" src="https://github.com/user-attachments/assets/31858364-b15c-420d-b938-8a75af4352e6" />
+
+
+### Mejoras visuales a menús
+
+Flota:
+
+<img width="766" height="348" alt="image" src="https://github.com/user-attachments/assets/2f85423a-c7fb-4e42-89cb-86c45ebb486d" />
+
+Actividad:
+
+<img width="779" height="229" alt="image" src="https://github.com/user-attachments/assets/afa7b223-a9a0-4252-9905-16d4376ca230" />
+
+Liquidaciones:
+
+<img width="776" height="197" alt="image" src="https://github.com/user-attachments/assets/e7ca44cd-1334-4975-9e41-f2eedaa67663" />
+
+
+
+### Incidencias corregidas
+Las siguientes incidencias fueron corregidas:
+- Error en limpiza de filtros de Identificadores
+- Error en el campo de busqueda
+- Erorres visuales en pop-ups
+- Error al cargar una plantilla para actualizar vehiculos no se aplican los cambios
+- Inconsistencia visual en el dropdown de roles al loguearse en el portal
