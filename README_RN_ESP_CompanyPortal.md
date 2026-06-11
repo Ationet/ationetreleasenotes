@@ -17,6 +17,7 @@
 
 # Contenido
 
+- [2026, Junio 17 - v1.148.3](Company%20Portal/v1.148.3_ES.md)
 - [2026, Febrero 25 - v1.135.5](Company%20Portal/v1.135.5_ES.md)
 - [2025, Diciembre 17 - v1.132.2.0](Company%20Portal/1.132.2.0%20ESP.md)
 - [2025, Marzo 12 - v1.118.7.0](Company%20Portal/1.118.7.0%20ESP.md)
