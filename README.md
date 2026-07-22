@@ -6,7 +6,7 @@
 
 ## LATEST Deployments <img width="31" alt="image" src="https://github.com/user-attachments/assets/56003bab-4447-4354-9eb5-868fc33180f7" />
 
-- [ATIONET Console v2.6.8200](/ATIONET-Console/v2.6.8200_EN.md)
+- [ATIONET Console v2.6.8250](/ATIONET-Console/v2.6.8250_EN.md)
   
 <!-- - [ATIONET REVOPOS v2.1.6](R-Evopos/2.1.6_ES.md) 
 - [ATIONET Portal de Compañías v1.135.5](/Company%20Portal/v1.135.5_ES.md)
@@ -23,7 +23,7 @@
 
 ## ULTIMAS Implementaciones <img width="31" alt="image" src="https://github.com/user-attachments/assets/ac66f280-d06b-4685-9456-1219076a5731" />
 
-- [ATIONET Console v2.6.8200](/ATIONET-Console/v2.6.8200_ES.md)
+- [ATIONET Console v2.6.8250](/ATIONET-Console/v2.6.8250_ES.md)
 
 <!-- - [ATIONET REVOPOS v2.1.6](R-Evopos/2.1.6_EN.md)   
 - [ATIONET Company Portal v1.135.5](/Company%20Portal/v1.135.5_EN.md)
