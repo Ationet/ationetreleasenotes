@@ -24,10 +24,10 @@
 
 ## ULTIMAS Implementaciones <img width="31" alt="image" src="https://github.com/user-attachments/assets/ac66f280-d06b-4685-9456-1219076a5731" />
 
-- [ATIONET Console v2.6.8400](/ATIONET-Console/v2.6.8400_ES.md)
-- [ATIONET REVOPOS v2.1.18](R-Evopos/2.1.18_ES.md)  
+- [ATIONET Console v2.6.8450](/ATIONET-Console/v2.6.8450_ES.md)
 
-<!-- - [ATIONET REVOPOS v2.1.6](R-Evopos/2.1.6_EN.md)   
+
+<!-- - [ATIONET REVOPOS v2.1.18](R-Evopos/2.1.18_ES.md)   
 - [ATIONET Company Portal v1.135.5](/Company%20Portal/v1.135.5_EN.md)
 - [ATIONET Portal Compañías v1.132.2.0](/Company%20Portal/1.132.2.0%20ESP.md) 
 - [ATIONET REVOPOS v2.1.10](https://github.com/Ationet/ationetreleasenotes/blob/main/R-Evopos/2.1.10_ES.md)
