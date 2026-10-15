@@ -7,7 +7,7 @@
 ## LATEST Deployments <img width="31" alt="image" src="https://github.com/user-attachments/assets/56003bab-4447-4354-9eb5-868fc33180f7" />
 
 - [ATIONET Console v2.6.8550](/ATIONET-Console/v2.6.8550_EN.md)
-- [ATIONET REVOPOS v2.1.19](https://github.com/Ationet/ationetreleasenotes/blob/main/R-Evopos/2.1.19_EN.md)
+- [ATIONET REVOPOS v2.1.19](https://github.com/Ationet/ationetreleasenotes/blob/main/R-Evopos/v2.1.19_EN.md)
 
   
 <!-- - [ATIONET REVOPOS v2.1.18](R-Evopos/2.1.18_EN.md) 
@@ -26,7 +26,7 @@
 ## ULTIMAS Implementaciones <img width="31" alt="image" src="https://github.com/user-attachments/assets/ac66f280-d06b-4685-9456-1219076a5731" />
 
 - [ATIONET Console v2.6.8550](/ATIONET-Console/v2.6.8550_ES.md)
-- [ATIONET REVOPOS v2.1.19](https://github.com/Ationet/ationetreleasenotes/blob/main/R-Evopos/2.1.19_ES.md)
+- [ATIONET REVOPOS v2.1.19](https://github.com/Ationet/ationetreleasenotes/blob/main/R-Evopos/v2.1.19_ES.md)
 
 
 <!-- - [ATIONET REVOPOS v2.1.18](R-Evopos/2.1.18_ES.md)   
