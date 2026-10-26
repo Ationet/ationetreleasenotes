@@ -8,6 +8,7 @@
 
 - [ATIONET Console v2.6.8550](/ATIONET-Console/v2.6.8550_EN.md)
 - [ATIONET REVOPOS v2.1.19](https://github.com/Ationet/ationetreleasenotes/blob/main/R-Evopos/v2.1.19_EN.md)
+- [ATIONET Local Agent v2.6.0251](https://github.com/Ationet/ationetreleasenotes/blob/main/LocalAgent/v2.6.0251_EN.md)
 
   
 <!-- - [ATIONET REVOPOS v2.1.18](R-Evopos/2.1.18_EN.md) 
