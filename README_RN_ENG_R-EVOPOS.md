@@ -16,6 +16,7 @@
 
 
 # Contents
+- [2026, November 4 - v2.1.21](R-Evopos/v2.1.21_EN.md)
 - [2026, September 16 - v2.1.18](R-Evopos/2.1.18_EN.md)
 - [2026, September 09 - v2.1.15](/R-Evopos/2.1.15_EN.md)
 - [2026, June 11 - v2.1.14](/R-Evopos/2.1.14_EN.md)
