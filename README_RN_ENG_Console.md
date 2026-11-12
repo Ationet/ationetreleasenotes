@@ -16,7 +16,8 @@
 
 
 # Contents
-- [2026, November 4 - v2.6.8550](/ATIONET-Console/v2.6.8600_EN.md)
+- [2026, November 4 - v2.6.8650](/ATIONET-Console/v2.6.8650_EN.md)
+- [2026, November 4 - v2.6.8600](/ATIONET-Console/v2.6.8600_EN.md)
 - [2026, October 21 - v2.6.8550](/ATIONET-Console/v2.6.8550_EN.md)
 - [2026, October 7 - v2.6.8500](/ATIONET-Console/v2.6.8500_EN.md)
 - [2026, September 23 - v2.6.8450](/ATIONET-Console/v2.6.8450_EN.md)
