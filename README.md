@@ -6,7 +6,7 @@
 
 ## LATEST Deployments <img width="31" alt="image" src="https://github.com/user-attachments/assets/56003bab-4447-4354-9eb5-868fc33180f7" />
 
-- [ATIONET Console v2.6.8650](/ATIONET-Console/v2.6.8650_EN.md)
+- [ATIONET Console v2.6.8700](/ATIONET-Console/v2.6.8700_EN.md)
 
 
   
@@ -25,7 +25,7 @@
 
 ## ULTIMAS Implementaciones <img width="31" alt="image" src="https://github.com/user-attachments/assets/ac66f280-d06b-4685-9456-1219076a5731" />
 
-- [ATIONET Console v2.6.8650](/ATIONET-Console/v2.6.8650_ES.md)
+- [ATIONET Console v2.6.8700](/ATIONET-Console/v2.6.8700_ES.md)
 
 
 
